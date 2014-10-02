@@ -11,7 +11,7 @@
 @implementation MomentoView
 
 -(id)init{
-    NSArray *subviewArray = [[NSBundle mainBundle] loadNibNamed:@"Moment" owner:self options:nil];
+    NSArray *subviewArray = [[NSBundle mainBundle] loadNibNamed:@"MomentView" owner:self options:nil];
     id mainView = [subviewArray objectAtIndex:0];
     
     return mainView;
