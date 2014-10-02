@@ -86,7 +86,6 @@
 		8CAA4FDA19DD46580026DD8D = {
 			isa = PBXGroup;
 			children = (
-				8CAA502119DD7DF00026DD8D /* MapKit.framework */,
 				8CAA4FE519DD46580026DD8D /* TestScrool_2 */,
 				8CAA4FFF19DD46580026DD8D /* TestScrool_2Tests */,
 				8CAA4FE419DD46580026DD8D /* Products */,
@@ -121,6 +120,7 @@
 		8CAA4FE619DD46580026DD8D /* Supporting Files */ = {
 			isa = PBXGroup;
 			children = (
+				8CAA502119DD7DF00026DD8D /* MapKit.framework */,
 				8CAA4FE719DD46580026DD8D /* Info.plist */,
 				8CAA4FE819DD46580026DD8D /* main.m */,
 			);
@@ -464,6 +464,7 @@
 				8CAA500819DD46580026DD8D /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 		8CAA500919DD46580026DD8D /* Build configuration list for PBXNativeTarget "TestScrool_2Tests" */ = {
 			isa = XCConfigurationList;
@@ -472,6 +473,7 @@
 				8CAA500B19DD46580026DD8D /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 /* End XCConfigurationList section */
 	};
