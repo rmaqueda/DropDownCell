@@ -73,7 +73,7 @@ typedef enum {
     CGFloat h = 61;
     switch (indexPath.row) {
         case kGosstyView:
-            if (self.firstBig) h = 170.0;
+            if (self.firstBig) h = 170;
             break;
             
         case kMomentView:
